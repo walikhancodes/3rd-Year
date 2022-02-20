@@ -1,6 +1,6 @@
 # 3rd-Year
 CS work for the 2019-2020 school year, as well as other coding projects completed during this time
-Repository includes:
+<br> Repository includes:
   - CS 253 (Data Structures and Algorithms)
   - CS 255 (Computer Architecture/Machine Level Programming)
   - Coding projects from summer 2020
