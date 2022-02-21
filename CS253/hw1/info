@@ -1,4 +1,4 @@
 This assignment includes implementing: 
-  - Binary Heap
+  - Binary Heap (traditional heap)
   - Ternary Heap (Heap where nodes can have up to three children)
   - Median Heap (implemenets heap using median instead of minimum)
