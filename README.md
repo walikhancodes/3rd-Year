@@ -3,4 +3,4 @@ Some samples of my CS work from the 2019-2020 school year, as well as other codi
 <br> Repository includes:
   - CS 253 (Data Structures and Algorithms)
   - CS 255 (Computer Architecture/Machine Level Programming)
-  - Coding projects from summer 2020
+  - Coding projects from summer 2020 (learning Stacks, Queues, Heaps, Trees, and Graphs)
